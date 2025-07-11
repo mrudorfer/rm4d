@@ -4,9 +4,9 @@ layout: default
 
 # RM4D
 
-|                        **RM4D: A Combined Reachability and Inverse Reachability Map for Common 6-/7-axis Robot Arms by Dimensionality Reduction to 4D**                         |
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|                                                               by [Martin Rudorfer](https://mrudorfer.github.io), submitted for review to ICRA 2025                                                           |
+| **RM4D: A Combined Reachability and Inverse Reachability Map for Common 6-/7-axis Robot Arms by Dimensionality Reduction to 4D** |
+|:--------------------------------------------------------------------------------------------------------------------------------:|
+|                            by [Martin Rudorfer](https://mrudorfer.github.io), presented at ICRA 2025                             |
 
 **Abstract**<br/>
 <small>
